@@ -10,6 +10,7 @@ public class BasicCalculator {
         int num2 = scanner.nextInt();
 
         // Consume the leftover newline character from nextInt()
+
         scanner.nextLine();
 
         System.out.println("What do you want to do? ");
